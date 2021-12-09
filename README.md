@@ -1,6 +1,9 @@
 # utl-sas-directing-proc-printto-to-the-windows-clipboard-and-gsubmit
 SAS directing proc printto to the windows clipboard and gsubmit
-    SAS directing proc printto to the windows clipboard and gsubmit                         
+    SAS directing proc printto to the windows clipboard and gsubmit     
+    
+    github
+    https://tinyurl.com/2p8dsakr
                      _               _ _                                                    
       __ _ ___ _   _| |__  _ __ ___ (_) |_                                                  
      / _` / __| | | | `_ \| `_ ` _ \| | __|                                                 
